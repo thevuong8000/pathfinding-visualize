@@ -1,0 +1,35 @@
+.App {
+  /* text-align: center; */
+}
+
+.title_text{
+  text-align: center;
+}
+
+.note_opt{
+  display: flex;
+  align-items: center;
+}
+
+.note_opt > h3{
+  margin-left: 10px;
+}
+
+.visualizer{
+  display: flex;
+  justify-content: space-around;
+}
+
+.options{
+  width: 150px;
+  /* font-size: 20px; */
+}
+
+.opt{
+  display: flex;
+  align-items: center;
+  /* justify-content: space-evenly; */
+}
+.opt > h3{
+  margin-right: 10px;
+}
